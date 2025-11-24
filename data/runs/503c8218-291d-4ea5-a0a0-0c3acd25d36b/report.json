@@ -1,0 +1,21 @@
+{
+  "run_id": "503c8218-291d-4ea5-a0a0-0c3acd25d36b",
+  "topic": "How do mobile devices support language learning?",
+  "summary": "[SYNTHESIZER] Integrate findings and critiques into coherent hypotheses. Provide rationale and map citations to each hypothesis.\nPrompt: --- Reader's Analysis ---\n[READER] Identify core methods, datasets, and principal findings. Provide concise bullet points; avoid speculation. When available, refer\n\nFollow-up Research Directions:\n[FOLLOWUP] Identify knowledge gaps, propose follow-up research questions, suggest methodologies, and highlight connections among findings. Be specific and actionable.\nPrompt: Identify knowledge gaps, ...",
+  "hypotheses": [
+    "[SYNTHESIZER] Integrate findings and critiques into coherent hypotheses",
+    "Provide rationale and map citations to each hypothesis",
+    "Prompt: --- Reader's Analysis ---\n[READER] Identify core methods, datasets, and principal findings",
+    "Provide concise bullet points; avoid speculation",
+    "When available, reference the extracted knowledge base and retrieved documents"
+  ],
+  "confidence": 0.761,
+  "citations": [
+    "mock://ref/dd13423d",
+    "mock://ref/c4262b00",
+    "mock://ref/87575904",
+    "mock://ref/e046171f",
+    "mock://ref/27416057",
+    "mock://ref/1df50248"
+  ]
+}

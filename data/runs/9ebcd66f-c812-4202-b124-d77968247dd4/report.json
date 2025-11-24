@@ -1,0 +1,14 @@
+{
+  "run_id": "9ebcd66f-c812-4202-b124-d77968247dd4",
+  "topic": "How do mobile devices support language learning?",
+  "summary": "[DEBATE critic->synthesizer | SYNTHESIZER asks | Round 1]\n1.  What exactly constituted the \"provided source material\" that the Reader used to evaluate the summary? Was it the full EJ11722284.pdf document, a specific chunk (like EJ11722284.pdf\\_\\_chunk49), or a different excerpt?\n2.  Regarding the mi\n\nFollow-up Research Directions:\n[DEBATE verifier->followup | FOLLOWUP asks | Round 1]\n1.  What is the nature of \"the summary\" that was evaluated? Is it a human-written summary, an AI-generated summary, or another form of condensed i...",
+  "hypotheses": [
+    "[DEBATE critic->synthesizer | SYNTHESIZER asks | Round 1]\n1",
+    "What exactly constituted the \"provided source material\" that the Reader used to evaluate the summary? Was it the full EJ11722284",
+    "pdf document, a specific chunk (like EJ11722284",
+    "pdf\\_\\_chunk49), or a different excerpt?\n2",
+    "Regarding the missing methodological details, if the \"provided source material\" was *not* the full EJ11722284"
+  ],
+  "confidence": 0.75,
+  "citations": []
+}

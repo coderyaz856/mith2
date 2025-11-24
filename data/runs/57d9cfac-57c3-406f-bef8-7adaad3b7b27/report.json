@@ -1,0 +1,14 @@
+{
+  "run_id": "57d9cfac-57c3-406f-bef8-7adaad3b7b27",
+  "topic": "What is artificial intelligence?",
+  "summary": "Here are the integrated hypotheses, incorporating both the principal findings and their critiques, along with their rationale and citation mapping.\n\n---\n\n### Integrated Hypotheses\n\n#### Hypothesis 1: AI's Task-Specific Superiority vs. Cognitive Mimicry\n\n*   **Hypothesis:** AI systems demonstrate sup",
+  "hypotheses": [
+    "Here are the integrated hypotheses, incorporating both the principal findings and their critiques, along with their rationale and citation mapping",
+    "---\n\n### Integrated Hypotheses\n\n#### Hypothesis 1: AI's Task-Specific Superiority vs",
+    "Cognitive Mimicry\n\n*   **Hypothesis:** AI systems demonstrate superior performance in specific, well-defined, and narrow tasks, often surpassing human benchmarks in speed and consistency; however, this performance is typically achieved through statistical pattern matching and computational power rather than human-like understanding or reasoning, and its robustness and generalizability beyond curated datasets remain limited",
+    "*   **Rationale:** This hypothesis acknowledges the undeniable successes of AI in domains like strategic games and certain classification tasks, where clear metrics and abundant data allow for high-performance optimization",
+    "However, it critically integrates the observation that this \"human-level\" or \"superior\" performance is often functional and metric-driven, not indicative of human-like cognitive processes such as common sense or ethical reasoning"
+  ],
+  "confidence": 0.75,
+  "citations": []
+}
